@@ -3,5 +3,5 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anulalat.anulalat)
 
-![anulalat's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=anulalat&theme=great-gatsby&show_icons=true)
+![anulalat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anulalat&theme=great-gatsby&show_icons=true)
 
